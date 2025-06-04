@@ -23,4 +23,7 @@ The goal of this project is to equip job-seeking graduates and career advisors w
 - Tableau for interactive dashboard creation and visualization.
 - Python (Pandas) for data cleaning and preprocessing.
 - Python (Seaborn & Matplotlib) for data exploration and visualization.
-- UK Department for Education Dataset (2023) as the primary data source.
+- UK Department for Education Dataset (2023) as the primary data source. https://explore-education-statistics.service.gov.uk/find-statistics/graduate-labour-markets/2023
+
+## University Graduate Employment Dashboard
+View the live interactive dashboard here: [Tableau Public Link](https://public.tableau.com/views/UKGraduateEmploymentTrendsDashboard/UKGraduateEmploymentTrends?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
